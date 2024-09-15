@@ -15,4 +15,4 @@ Ex.3: sequancial de 3 leds
 
 esse codigo faz um sequancial, fazendo uma led acender uma depois da outra
 
-<img src="<img src="https://github.com/igorgabrielggrocha/atividades_arduino/blob/main/WhatsApp%20Image%202024-09-14%20at%2013.55.24.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="150"/>" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
+<img src="<img src="https://github.com/igorgabrielggrocha/atividades_arduino/blob/main/WhatsApp%20Image%202024-09-14%20at%2013.55.24.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="150"/>
